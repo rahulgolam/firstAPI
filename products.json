@@ -1,0 +1,70 @@
+[
+    {
+        "name" : "iphone",
+
+        "price" : 150,
+
+        "featured" : true ,
+
+        "company" : "apple"
+
+    },
+    
+
+    {
+        "name" : "isamsung",
+
+        "price" : 250,
+
+        "featured" : false ,
+
+        "company" : "samsung"
+
+    },
+
+
+    {
+        "name" : "note",
+
+        "price" : 650,
+
+        "featured" : false ,
+
+        "company" : "dell"
+    },
+
+
+
+    {
+        "name" : "iphone-18",
+
+        "price" : 1050,
+
+        "featured" : true ,
+
+        "company" : "apple"
+    },
+
+
+    {
+        "name" : "remote",
+
+        "price" : 300,
+
+        "featured" : false ,
+
+        "company" : "dell"
+    },
+
+
+    {
+        "name" : "watch",
+
+        "price" : 900,
+
+        "featured" : false ,
+
+        "company" : "mi"
+    }
+
+]
